@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main - Main function
- *
+ * main() - Main function
  * Return: 0 (Success)
  */
 int main(void)
